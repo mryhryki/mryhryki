@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a web developer and work for @caddijp.
+
 <!--
 **mryhryki/mryhryki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
