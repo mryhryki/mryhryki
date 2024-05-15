@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web developer and work for [CADDi Inc.](https://caddi.com/) ([@caddijp](https://github.com/caddijp))
+I am a web developer and work for [CADDi Inc.](https://caddi.com/) ([@caddijp](https://github.com/orgs/caddijp/people?query=mryhryki))
 
 <!--
 **mryhryki/mryhryki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
